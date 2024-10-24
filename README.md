@@ -1,4 +1,4 @@
-This repository contains my solutions to the array problems from the Love Babbar DSA sheet. Each solution includes the problem statement, code implementation in Java, and time/space complexity analysis. 
+This repository contains my solutions to problems from the Love Babbar DSA sheet. Each solution includes the problem statement, code implementation in Java, and time/space complexity analysis. 
 
 I'm working through these problems to strengthen my understanding of data structures and algorithms.
 
